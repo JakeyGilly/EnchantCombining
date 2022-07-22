@@ -1,0 +1,4 @@
+name: Enchanting
+version: '${project.version}'
+main: me.jakeygilly.enchanting.Enchanting
+api-version: 1.19
